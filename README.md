@@ -10,3 +10,6 @@
 
 ## 客户端
 国服官服 https://www.taptap.cn/app/190929
+
+## 预览
+![image](https://ads-video-qn.xiaohongshu.com/recruit/bb9826b3c4b8800a58cb1e2bcba2afc750c59bc4)
