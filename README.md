@@ -1,7 +1,7 @@
 # 云图计划Mod
 仅测试了官服 其他渠道服兼容性未知 该游戏不支持免ROOT模式  
 理论可支持国际服(未测试)  
-此脚本未加密 制作过程视频:https://t.me/FlxSNXMod/3553/13635 
+此脚本未加密 制作过程视频:https://t.me/FlxSNXMod/3553/13635 | [视频中的代码](https://github.com/JsHook-Script-Repo/4a72542acf324c16aa0646c2e8bfa8e1/tree/main/src)
 
 ## 功能
 * 战术技能无消耗
