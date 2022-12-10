@@ -1,0 +1,17 @@
+{
+    "name": "playground",
+    "main": "index.ts",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "build": "frida-compile -o bulid.js -c index.ts",
+        "dev": "frida-compile -o test.js -w index.ts",
+        "frida": "frida -U Gadget -l test.js"
+    },
+    "devDependencies": {
+      "@types/frida-gum": "^17.1.0",
+      "@types/node": "^16.11.12",
+      "frida-compile": "^10.2.4",
+      "frida-il2cpp-bridge": "*"
+    }
+  }
